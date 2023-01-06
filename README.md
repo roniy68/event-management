@@ -71,8 +71,9 @@
 >  soon will be available
 
 - [Live Demo Link](https://deploy-preview-1--zingy-genie-ae7c59.netlify.app/)
+  
 
-<!-- ![image](https://user-images.githubusercontent.com/77187003/207030442-2ee1781b-c2b5-4037-80c0-22060b895428.png) -->
+- [About the project](https://www.loom.com/share/3391ad537b144627bb6cf4d861f32a56)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
