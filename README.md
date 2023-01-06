@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="assets/images/favicon/apple-touch-icon.png" alt="logo" width="140"  height="auto" />
+  <img src="images/logo.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Event Management</b></h3>
@@ -70,7 +70,7 @@
 > Deployed Link Below: 
 >  soon will be available
 
-<!-- - [Live Demo Link](https://roniy68.github.io/) -->
+- [Live Demo Link](https://deploy-preview-1--zingy-genie-ae7c59.netlify.app/)
 
 <!-- ![image](https://user-images.githubusercontent.com/77187003/207030442-2ee1781b-c2b5-4037-80c0-22060b895428.png) -->
 
