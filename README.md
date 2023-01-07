@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="assets/images/favicon/apple-touch-icon.png" alt="logo" width="140"  height="auto" />
+  <img src="images/logo.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Event Management</b></h3>
@@ -31,6 +31,8 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [Designed by :](#designed-by-)
+  - [Developed By:](#developed-by)
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
@@ -70,9 +72,8 @@
 > Deployed Link Below: 
 >  soon will be available
 
-<!-- - [Live Demo Link](https://roniy68.github.io/) -->
-
-<!-- ![image](https://user-images.githubusercontent.com/77187003/207030442-2ee1781b-c2b5-4037-80c0-22060b895428.png) -->
+- [Live Demo Link](https://roniy68.github.io/)
+  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,9 +81,8 @@
 ## Demonstration : 
 
 > Watch this video: 
-<!-- - ![demo-video](https://www.loom.com/share/96c06bc2cb1c4f9a8da04cd5d5b8e931) -->
 - Demonstraion: <br/>
-<!-- [![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](https://www.loom.com/share/96c06bc2cb1c4f9a8da04cd5d5b8e931) -->
+[![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](https://www.loom.com/share/dca16ee0b02741dd8e9e763f2d3e1c2b)
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -156,9 +156,8 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@roniy68](https://github.com/roniy68)
 - Twitter: [@ahroniy](https://twitter.com/ahroniy)
@@ -203,6 +202,12 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+## Designed by :
+>[Cindy Shin from behance ](https://www.behance.net/adagio07) <br>
+
+## Developed By: 
+> [`Ahmed Hasan Rony`](https://www.linkedin.com/in/ahroniy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
