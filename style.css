@@ -21,12 +21,9 @@ a {
 
 span {
   color: var(--red-color);
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
-  border: 5px solid var(--black-color);
-  width: 170px;
   border-radius: 20%;
-  background-color: var(--grey-color);
 }
 
 /* header section  */
@@ -210,22 +207,22 @@ h3 {
 }
 
 .headline-content h1 {
-  font-size: 40px;
-  color: var(--red-color);
-  text-transform: uppercase;
-  font-weight: 800;
-  background-image: url("images/meta.png");
+  font-size: 50px;
+  font-weight: bold;
+  -webkit-text-fill-color: rgba(185, 27, 9, 0.816);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -webkit-font-smoothing: antialiased;
-  width: 40%;
+  width: 50%;
+  background-image: url("images/meta.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .headline-description {
   padding: 16px;
-  border: 2px solid var(--white-color);
-  color: var(--red-color);
+  border: 2px solid var(--grey-color);
+  color: var(--black-color);
   background-color: var(--white-color);
+  width: 70%;
 }
 
 .headline-footer {
@@ -241,7 +238,7 @@ h3 {
 }
 
 .headline-footer h3 {
-  color: var(--red-color);
+  color: var(--black-color);
   font-size: 16px;
 }
 
@@ -515,6 +512,17 @@ h3 {
 /* About us page */
 
 /* headline  */
+.headline-about-content h1 {
+  font-size: 50px;
+  font-weight: bold;
+  -webkit-text-fill-color: rgba(185, 27, 9, 0.816);
+  -webkit-background-clip: text;
+  text-align: center;
+  margin: 20px;
+  background-image: url("images/meta.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .headline-about-description {
   background-color: var(--white-color);
@@ -522,6 +530,7 @@ h3 {
   border: 2px solid var(--black-color);
   padding: 16px;
   line-height: 1.5em;
+  margin-bottom: 40px;
 }
 
 .headline-about-footer {
@@ -547,7 +556,7 @@ h3 {
 
 .logo-description {
   color: grey;
-  padding-bottom: 48px;
+  padding: 48px;
   font-weight: 600;
 }
 
@@ -623,8 +632,8 @@ h3 {
 
   /* headline */
 
-  .headline-content {
-    padding-top: 68px;
+  .headline-about-content {
+    padding: 68px;
   }
 
   /* program */
