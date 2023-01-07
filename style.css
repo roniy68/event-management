@@ -594,7 +594,6 @@ h3 {
   background-image: linear-gradient(rgba(108, 3, 3, 0.954), rgba(162, 63, 63, 0.819)), url("images/event2.jpg");
 }
 
-
 /* desktop version */
 @media all and (min-width: 768px) {
   /* home page  */
