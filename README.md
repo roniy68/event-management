@@ -31,6 +31,8 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [Designed by :](#designed-by-)
+  - [Developed By:](#developed-by)
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
@@ -73,17 +75,14 @@
 - [Live Demo Link](https://deploy-preview-1--zingy-genie-ae7c59.netlify.app/)
   
 
-- [About the project](https://www.loom.com/share/3391ad537b144627bb6cf4d861f32a56)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Demonstration : 
 
 > Watch this video: 
-<!-- - ![demo-video](https://www.loom.com/share/96c06bc2cb1c4f9a8da04cd5d5b8e931) -->
 - Demonstraion: <br/>
-<!-- [![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](https://www.loom.com/share/96c06bc2cb1c4f9a8da04cd5d5b8e931) -->
+[![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](<put_video_link>)
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -157,9 +156,8 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@roniy68](https://github.com/roniy68)
 - Twitter: [@ahroniy](https://twitter.com/ahroniy)
@@ -204,6 +202,12 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+## Designed by :
+>[Cindy Shin from behance ](https://www.behance.net/adagio07) <br>
+
+## Developed By: 
+> [`Ahmed Hasan Rony`](https://www.linkedin.com/in/ahroniy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

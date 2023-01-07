@@ -14,6 +14,21 @@
   scroll-behavior: smooth;
 }
 
+a {
+  text-decoration: none;
+  color: var(--red-color);
+}
+
+span {
+  color: var(--red-color);
+  font-size: 25px;
+  font-weight: bold;
+  border: 5px solid var(--black-color);
+  width: 170px;
+  border-radius: 20%;
+  background-color: var(--grey-color);
+}
+
 /* header section  */
 #header {
   position: absolute;
@@ -182,7 +197,7 @@ h3 {
 
 #headline {
   width: 100%;
-  background-image: linear-gradient(rgba(214, 209, 243, 0.753), rgba(214, 209, 243, 0.753)), url("images/Jesus-mobile.jpg");
+  background-image: linear-gradient(rgba(214, 209, 243, 0.753), rgba(214, 209, 243, 0.953)), url("images/Jesus-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 120px 0;
@@ -199,12 +214,17 @@ h3 {
   color: var(--red-color);
   text-transform: uppercase;
   font-weight: 800;
+  background-image: url("images/meta.png");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-font-smoothing: antialiased;
 }
 
 .headline-description {
   padding: 16px;
   border: 2px solid var(--white-color);
-  color: var(--black-color);
+  color: var(--red-color);
+  background-color: var(--white-color);
 }
 
 .headline-footer {
@@ -220,7 +240,7 @@ h3 {
 }
 
 .headline-footer h3 {
-  color: gray;
+  color: var(--red-color);
   font-size: 16px;
 }
 
@@ -459,8 +479,12 @@ h3 {
 #footer {
   display: none;
   gap: 20px;
-  justify-content: center;
+  justify-content: space-around;
   padding: 24px 12px;
+}
+
+.about-footer {
+  background-color: rgb(48, 50, 61) !important;
 }
 
 .about-footer .footer-content p {
@@ -494,7 +518,7 @@ h3 {
 .headline-about-description {
   background-color: var(--white-color);
   color: var(--black-color);
-  border: 1px solid var(--grey-color);
+  border: 2px solid var(--black-color);
   padding: 16px;
   line-height: 1.5em;
 }
@@ -558,22 +582,18 @@ h3 {
   justify-content: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  color: var(--grey-color);
+  color: var(--white-color);
   text-align: center;
 }
 
 #past-events .events-container div:nth-child(1) {
-  background-image: linear-gradient(rgba(188, 180, 231, 0.4), rgba(188, 180, 231, 0.4)), url("images/event1.jpg");
+  background-image: linear-gradient(rgba(108, 3, 3, 0.954), rgba(162, 63, 63, 0.819)), url("images/event1.jpg");
 }
 
 #past-events .events-container div:nth-child(2) {
-  background-image: linear-gradient(rgba(188, 180, 231, 0.4), rgba(188, 180, 231, 0.4)), url("images/event2.jpg");
+  background-image: linear-gradient(rgba(108, 3, 3, 0.954), rgba(162, 63, 63, 0.819)), url("images/event2.jpg");
 }
 
-/* footer  */
-.about-footer {
-  background-color: var(--black-color);
-}
 
 /* desktop version */
 @media all and (min-width: 768px) {
