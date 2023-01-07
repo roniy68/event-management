@@ -218,6 +218,7 @@ h3 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-font-smoothing: antialiased;
+  width: 40%;
 }
 
 .headline-description {
