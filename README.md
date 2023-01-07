@@ -72,7 +72,7 @@
 > Deployed Link Below: 
 >  soon will be available
 
-- [Live Demo Link](https://deploy-preview-1--zingy-genie-ae7c59.netlify.app/)
+- [Live Demo Link](https://roniy68.github.io/)
   
 
 
@@ -82,7 +82,7 @@
 
 > Watch this video: 
 - Demonstraion: <br/>
-[![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](<put_video_link>)
+[![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](https://www.loom.com/share/dca16ee0b02741dd8e9e763f2d3e1c2b)
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
