@@ -1,4 +1,4 @@
-# Contributing to Capstone Rails
+# Contributing to event-management
 
 Welcome to Capstone Rails! We appreciate your interest in contributing. This document outlines the guidelines for contributing to this project and how you can get involved.
 
