@@ -47,6 +47,7 @@ For answers to common questions about this code of conduct, see https://www.cont
 
 We acknowledge that creating an open and inclusive community requires continuous effort from all contributors, and we appreciate your support in achieving this goal.
 
+# Email Me : [ahr@drsight.us](mailto:ahr@drsight.us)
 
 Happy Coding 🙃
 
