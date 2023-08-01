@@ -16,6 +16,26 @@ To report a security issue, please follow these steps:
 
 Please note that this security policy applies to the official releases of event-management. If you are using a modified or third-party version, please reach out to the respective maintainers for their security policy.
 
+# Supported Versions
 
+We strive to provide security updates for the latest release of event-management and the previous stable release. It's highly recommended to keep your installation up to date with the latest version to benefit from the latest security patches and improvements.
+
+# Security Best Practices
+
+While we actively maintain the security of event-management, we also encourage users and contributors to follow these best practices to enhance the security of their own deployments:
+
+- Keep event-management and its dependencies up to date with the latest security patches.
+- Enable authentication, authorization, and strong password policies to protect user accounts.
+- Regularly backup your data to prevent data loss in case of any unforeseen incidents.
+- Restrict server access and permissions to authorized personnel only.
+- Review and test custom code or third-party integrations for potential vulnerabilities.
+
+By following these practices and promptly reporting any security concerns, we can collectively maintain a secure environment for all event-management users.
+
+Thank you for your help in making event-management a safe and secure project!
+
+# Company Contacts : 
+Email : [ahr@drsight.us](mailto:ahr@drsight.us)
+Support : [support@drsight.us](mailto:support@drsight.us)
 
 
