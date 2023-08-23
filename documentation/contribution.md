@@ -9,7 +9,10 @@
  # How and When 
  # TO-DOs
  # Creating PRs
- 
+ # Approve of the PR
+ # Merge to STAG branch
+ # Email Approved PR link to Project Manager
+ # ETC
 
 Happy Coding :-)
 
