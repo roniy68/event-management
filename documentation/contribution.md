@@ -5,6 +5,12 @@
  #2. [Getting Started](#getting-started)
 
  # Highlights
+ 
+ - Point one : 
+ - Point Two :
+ - Point Three: 
+
+
  # Echos
  # How and When 
  # TO-DOs
