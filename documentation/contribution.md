@@ -18,6 +18,12 @@
  - Point Three: 
  
  # How and When 
+ 
+
+ - Point one : 
+ - Point Two :
+ - Point Three: 
+
  # TO-DOs
  # Creating PRs
  # Approve of the PR
