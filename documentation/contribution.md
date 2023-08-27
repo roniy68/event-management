@@ -24,7 +24,17 @@
  - Point Two :
  - Point Three: 
 
+ - Point one : 
+ - Point Two :
+ - Point Three: 
+
  # TO-DOs
+ 
+
+ - Point one : 
+ - Point Two :
+ - Point Three: 
+
  # Creating PRs
  # Approve of the PR
  # Merge to STAG branch
