@@ -24,9 +24,6 @@
  - Point Two :
  - Point Three: 
 
- - Point one : 
- - Point Two :
- - Point Three: 
 
  # TO-DOs
  
