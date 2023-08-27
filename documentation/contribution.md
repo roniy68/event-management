@@ -13,16 +13,10 @@
 
  # Echos
  
- - Point one : 
- - Point Two :
- - Point Three: 
  
  # How and When 
  
 
- - Point one : 
- - Point Two :
- - Point Three: 
 
 
  # TO-DOs
