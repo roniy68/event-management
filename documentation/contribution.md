@@ -14,6 +14,10 @@
  # Echos
  
  
+ - Point one : 
+ - Point Two :
+ - Point Three: 
+
  # How and When 
  
 
