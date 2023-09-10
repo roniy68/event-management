@@ -20,9 +20,6 @@
 
  # How and When 
  
- - Point one : 
- - Point Two :
- - Point Three: 
 
 
 
