@@ -6,8 +6,6 @@
 
  # Highlights
  
- - Point one : 
- - Point Two :
  - Point Three: 
 
 
