@@ -20,6 +20,11 @@
 
  # Echos
  
+	1) Python ETL Tool: Apache Airflow.
+	2) Python ETL Tool: Luigi.
+	3) Python ETL Tool: Pandas.
+	4) Python ETL Tool: Bonobo.
+	5) Python ETL Tool: petl.
  
  # How and When 
  
