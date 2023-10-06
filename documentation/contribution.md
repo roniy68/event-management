@@ -20,6 +20,9 @@
 
  # Echos
  
+ - Point One 
+ - Point Two
+ - Point Three
  
  # How and When 
  
