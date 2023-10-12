@@ -26,9 +26,6 @@
  
  # How and When 
  
- - Point One 
- - Point Two
- - Point Three
 
 
  # TO-DOs
