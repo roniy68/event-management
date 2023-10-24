@@ -33,9 +33,6 @@
 
 
  # Merge to STAG branch
- - Point One 
- - Point Two
- - Point Three
  # Email Approved PR link to Project Manager
  # ETC
 
