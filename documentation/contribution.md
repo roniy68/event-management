@@ -42,7 +42,6 @@ Happy Coding :-)
  - Point Two
 
  - Point Three
- - Point Three
 
  - Point Three
 
