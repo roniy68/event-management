@@ -1,7 +1,6 @@
 
 	# Step One 
-	# Step Two 
-	# Step Three
+	
 	# Contribution to the Project
 
 
