@@ -1,10 +1,8 @@
 
 	# Step One 
+	# 
 	# Contribution to the Project
 
-
-	
-	
 	# Contribution to the Project
 
 	### Contact : [ahroniy](https://ahroniy.me)
