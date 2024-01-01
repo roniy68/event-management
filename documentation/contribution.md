@@ -41,5 +41,4 @@ Happy Coding :-)
 
  - Point Two
  - Point Three
- - Point Four
 
