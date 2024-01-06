@@ -36,7 +36,7 @@
  # Email Approved PR link to Project Manager
  # ETC
  - Point One 
-Happy Coding :-)
+ # Happy Coding :-)
  - Point Two
 
  - Point Three
