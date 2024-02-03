@@ -37,5 +37,4 @@
  # ETC
  # Happy Coding :-)
  - Point One 
- - Point Two
 
