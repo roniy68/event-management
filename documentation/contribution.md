@@ -38,5 +38,4 @@
  # Happy Coding :-)
  - Point One 
  - Point Two
- - Point Two
 
